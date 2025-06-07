@@ -340,14 +340,6 @@ nav .desktop-nav li a:hover {
     transition-delay: 200ms;
 } 
 
-
-/* Hidden Items */
-
-.mobile-nav,
-.mobile-search-container {
-    display: none;
-}
-
 .desktop-site-logo img{
     padding-top: 4px;
     width: 30px;
@@ -359,12 +351,22 @@ nav .desktop-nav li a:hover {
     width: 30px;
 }
 
+/* Hidden Items */
+
+.mobile-nav,
+.mobile-search-container {
+    display: none;
+}
+
 /* Media Queries */
 
 @media (max-width: 1100px) {
     .nav-container nav {
         width: 100%;
         padding: 0 32px;
+    }
+    .desktop-site-logo img{
+        display: none;
     }
 }
 
