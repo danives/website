@@ -383,6 +383,10 @@ nav .desktop-nav li a:hover {
         transition: all 1000ms ease;
     }
 
+    .desktop-site-logo img{
+        display: none;
+    }
+
     .nav-container.active .desktop-nav {
         height: 100vh;
     }
