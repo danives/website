@@ -24,9 +24,9 @@ body {
     right: 0;
 }
 
-.container{
+/*.container{
     margin-top: 60px;
-}
+}*/
 
 .nav-container nav {
     width: 1000px;
@@ -619,5 +619,5 @@ a {
     -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 main > .container {
-  padding: 20px 15px 0;
+  padding: 60px 15px 0;
 }
