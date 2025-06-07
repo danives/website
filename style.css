@@ -348,8 +348,10 @@ nav .desktop-nav li a:hover {
     display: none;
 }
 
-.mobile-nav .site-logo{
+.site-logo img{
     padding-top: 7.5px;
+    width: 30px;
+    margin: 0px;
 }
 
 /* Media Queries */
