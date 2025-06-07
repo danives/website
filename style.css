@@ -50,10 +50,6 @@ nav .desktop-nav li a {
     transition: opacity 400ms;
 }
 
-nav .desktop-nav li:first a {
-    text-decoration: none;
-}
-
 nav .desktop-nav li a:hover {
     opacity: 1;
 }
@@ -405,6 +401,7 @@ nav .desktop-nav li a:hover {
 
     .nav-container .desktop-nav li:first-child {
         margin-top: 120px;
+        text-decoration: none;
     }
 
     .nav-container .desktop-nav .link-logo,
