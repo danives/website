@@ -347,12 +347,8 @@ nav .desktop-nav li a:hover {
 }
 
 .mobile-site-logo img{
-    padding-top: 4px;
+    padding-top: 6px;
     width: 30px;
-}
-
-a.mobile-site-logo{
-    margin-top: 5px;
 }
 
 /* Hidden Items */
