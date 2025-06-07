@@ -640,11 +640,11 @@ main > .container {
   padding: 15px 15px 0;
 }
 .footer{
-    background-color: (0, 0, 0, 0.8);
+    background-color: rgb(0, 0, 0, 0.8);
 }
 .footer-container{
     margin: 0 3%;
     color: #fff;
     font-family: "Inter", sans-serif;
-    font-size: 17px;
+    font-size: 13px;
 }
