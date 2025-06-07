@@ -348,10 +348,15 @@ nav .desktop-nav li a:hover {
     display: none;
 }
 
-.site-logo img{
+.desktop-site-logo img{
     padding-top: 4px;
     width: 30px;
     margin: 0px;
+}
+
+.mobile-site-logo img{
+    padding-top: 4px;
+    width: 30px;
 }
 
 /* Media Queries */
