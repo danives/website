@@ -368,6 +368,9 @@ nav .desktop-nav li a:hover {
     .desktop-site-logo img{
         display: none;
     }
+        a.desktop-site-logo{
+        margin-top: 5px;
+    }
 }
 
 @media (max-width: 768px) {
@@ -383,6 +386,10 @@ nav .desktop-nav li a:hover {
         overflow: hidden;
         z-index: -1;
         transition: all 1000ms ease;
+    }
+
+    a.desktop-site-logo{
+        margin-top: 5px;
     }
 
     .desktop-site-logo img{
