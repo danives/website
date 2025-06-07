@@ -50,6 +50,10 @@ nav .desktop-nav li a {
     transition: opacity 400ms;
 }
 
+nav .desktop-nav li:first a {
+    text-decoration: none;
+}
+
 nav .desktop-nav li a:hover {
     opacity: 1;
 }
