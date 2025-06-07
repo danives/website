@@ -368,8 +368,8 @@ nav .desktop-nav li a:hover {
     .desktop-site-logo{
         display: none;
     }
-    .nav-container .desktop-nav li:first-child {
-        text-decoration: none;
+    .nav-container .desktop-nav li a:first{
+        border: none;
     }
 }
 
