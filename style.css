@@ -24,7 +24,7 @@ body {
     right: 0;
 }
 
-.desktop-nav ul{
+ul.desktop-nav{
     padding-left: 0px !important;
 }
 
