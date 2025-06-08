@@ -389,6 +389,10 @@ nav .desktop-nav li a:hover {
         transition: all 1000ms ease;
     }
 
+    ul.desktop-nav{
+        padding-left: 2rem;
+    }
+
     .desktop-site-logo img{
         display: none;
     }
