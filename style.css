@@ -29,7 +29,7 @@ body {
 }
 
 .nav-container nav {
-    width: 1000px;
+    width: 1200px;
     margin: 0 auto;
     padding: 0 8px;
     height: 100%;
@@ -644,7 +644,7 @@ main > .container {
 }
 .footer-container{
     margin: 0 3%;
-    width: 1000px;
+    width: 1200px;
     margin: 0 auto;
 }
 .text-body-secondary{
