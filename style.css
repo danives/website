@@ -372,6 +372,9 @@ nav .desktop-nav li a:hover {
     .desktop-site-logo{
         display: none;
     }
+        ul.desktop-nav{
+        padding-left: 2rem !important;
+    }
 }
 
 @media (max-width: 768px) {
@@ -390,7 +393,7 @@ nav .desktop-nav li a:hover {
     }
 
     ul.desktop-nav{
-        padding-left: 2rem;
+        padding-left: 2rem !important;
     }
 
     .desktop-site-logo img{
