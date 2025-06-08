@@ -24,6 +24,10 @@ body {
     right: 0;
 }
 
+nav .desktop-nav ul{
+    padding-left: 0px !important;
+}
+
 .container{
     margin-top: 60px;
 }
