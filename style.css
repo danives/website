@@ -63,7 +63,7 @@ nav .desktop-nav li a:hover {
     display: block;
     background-position: center;
     height: 44px;
-    width: 32px;
+    width: 15px;
     background-repeat: no-repeat;
 }
 
@@ -346,13 +346,13 @@ nav .desktop-nav li a:hover {
 
 .desktop-site-logo img{
     padding-top: 4px;
-    width: 16px;
+    width: 32px;
     margin: 0px;
 }
 
 .mobile-site-logo img{
     padding-top: 6px;
-    width: 16px;
+    width: 32px;
 }
 
 /* Hidden Items */
