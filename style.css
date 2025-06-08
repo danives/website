@@ -644,6 +644,8 @@ main > .container {
 }
 .footer-container{
     margin: 0 3%;
+    width: 1000px;
+    margin: 0 auto;
 }
 .text-body-secondary{
     color: #fff !important;
