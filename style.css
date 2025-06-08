@@ -25,7 +25,7 @@ body {
 }
 
 ul.desktop-nav{
-    padding-left: 0px !important;
+    padding-left: 0px;
 }
 
 .container{
@@ -371,9 +371,6 @@ nav .desktop-nav li a:hover {
     }
     .desktop-site-logo{
         display: none;
-    }
-        ul.desktop-nav{
-        padding-left: 2rem !important;
     }
 }
 
