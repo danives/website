@@ -631,6 +631,9 @@ nav .desktop-nav li a:hover {
     .nav-container nav {
         transition: all 400ms ease;
     }
+    .footer-container{
+        margin: 0 3%;
+    }
 }
 
 
